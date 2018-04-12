@@ -30,7 +30,7 @@ Things I like:
 
 I have a dog
 
-![dog](/images/logo.png)
+![dog](/dog.jpg)
 
 
 ### Contact
