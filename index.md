@@ -8,21 +8,10 @@ I am currently a level two Computer Programing/Analyst Student at Conestoga Coll
                          in ip based security systems and access control, as well as mesh wireless networking support.
 
 ```markdown
-Syntax highlighted code block
+Here you can I am writing in a highlighted code box
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I have yet to learn markdown, so my skills in **THIS** department are rather limited. 
+We should probably learn markdown before having to code in it for marks.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
