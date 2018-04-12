@@ -32,6 +32,7 @@ I have a dog
 
 ![dog](/dog.jpg)
 
+That right there, is The Kid and his Dawg ^^^
 
 ### Contact
 
