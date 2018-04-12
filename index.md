@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Graeme Godfrey Assignment 4
 
-You can use the [editor on GitHub](https://github.com/ggodfrey77/Assignment4/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Conestoga CPA Student
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About ME
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently a level two Computer Programing/Analyst Student at Conestoga College. I have a background
+                         in ip based security systems and access control, as well as mesh wireless networking support.
 
 ```markdown
 Syntax highlighted code block
