@@ -24,9 +24,9 @@ Job experience:
 3. Plume Design Inc: Social Media Support Lead
 
 Things I like:
--Pizza
--Pizza
--Pizza
+1. Pizza
+2. Pizza
+3. Pizza
 
 I have a dog
 
